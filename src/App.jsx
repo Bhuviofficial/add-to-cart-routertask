@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import ProductsPage from "./Pages/ProductsPage";
 import CartPage from "./Pages/CartPage";
-import Navbar from "./components/Navbar";
+import Navbar from "./Components/Navbar";
 
 const App = () => {
   const [cart, setCart] = useState([]);
