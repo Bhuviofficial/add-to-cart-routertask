@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Routes, Route } from "react-router-dom";
-import ProductsPage from "./pages/ProductsPage";
+import ProductsPage from "./Pages/ProductsPage";
 import CartPage from "./Pages/CartPage";
 import Navbar from "./components/Navbar";
 
